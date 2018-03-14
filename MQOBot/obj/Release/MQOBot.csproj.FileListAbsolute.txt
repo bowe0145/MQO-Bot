@@ -1,0 +1,8 @@
+C:\Users\ryan\documents\visual studio 2013\Projects\MQOBot\MQOBot\bin\Release\MQOBot.exe.config
+C:\Users\ryan\documents\visual studio 2013\Projects\MQOBot\MQOBot\bin\Release\MQOBot.exe
+C:\Users\ryan\documents\visual studio 2013\Projects\MQOBot\MQOBot\bin\Release\MQOBot.pdb
+C:\Users\ryan\documents\visual studio 2013\Projects\MQOBot\MQOBot\obj\Release\MQOBot.Form1.resources
+C:\Users\ryan\documents\visual studio 2013\Projects\MQOBot\MQOBot\obj\Release\MQOBot.Properties.Resources.resources
+C:\Users\ryan\documents\visual studio 2013\Projects\MQOBot\MQOBot\obj\Release\MQOBot.csproj.GenerateResource.Cache
+C:\Users\ryan\documents\visual studio 2013\Projects\MQOBot\MQOBot\obj\Release\MQOBot.exe
+C:\Users\ryan\documents\visual studio 2013\Projects\MQOBot\MQOBot\obj\Release\MQOBot.pdb
